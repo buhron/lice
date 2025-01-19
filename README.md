@@ -6,3 +6,4 @@ Rootfs (obvious), fakeroot (mount /dev, /proc, and /sys), and lxroot (also obvio
 * Native performance - In lxroot
 * Lile windows in the host (and DEs?) - Working on
 * Easy-to-use interactive shell script wrapper for lile - Working on
+* Other distros (right now lxroot only supports Debian/Ubuntu) - Working on
